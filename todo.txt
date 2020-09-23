@@ -1,0 +1,4 @@
+2 problems:
+1- when modifying dhtmledit.htmlDocument directly, paths are lost (image,css,...)	//FIXED
+2- when modifying dhtmledit.htmlDocument directly, dhtmledit.isDirty is not set!
+
